@@ -1,7 +1,3 @@
-console.log("alert statement")
-import './style.css';
+import initializeWebsite from "./website";
 
-function loadPage () {
-    const element = document.createElement('div')
-
-}
+initializeWebsite();
